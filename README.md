@@ -3,9 +3,9 @@
 <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/portfolio_final12.pdf" target="_blank" class="button"> **_Portfolio_** </a> 
 
 
-<text style="color: dark green">WORK IN PROGRESS</text>
+<text style="color: green">WORK IN PROGRESS</text>
 
-##↓ <text style="color: red">a series of 3d rendered images that refere to a diffrent status of objects in the public space</text>
+## <text style="color: red">↓a series of 3d rendered images that refere to a diffrent status of objects in the public space</text>
 
 ![bracket horizon3](https://github.com/user-attachments/assets/33a08a3b-057a-4a4e-a105-3593fa49c7c7)
 
