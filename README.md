@@ -1,7 +1,3 @@
-<head>
-    
-<h1 style="color:blue;">marco spörle</> <h1/>
-    
 </head>
 
 <h1 style="color:blue;">marco spörle</> <h1/>
