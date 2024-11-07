@@ -1,7 +1,7 @@
 <h1>MARCO SPÖRLE</h1>
 
-<a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/hanging.pdf" target="_blank" class="button"> **_CV_** </a> 
-<a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/portfolio_final12.pdf" target="_blank" class="button"> **_Portfolio_** </a> 
+<a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/hanging.pdf" target="_blank" class="button"> *CV* </a> 
+<a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/portfolio_final12.pdf" target="_blank" class="button"> *Portfolio* </a> 
 
 
 <text style="color: green">WORK IN PROGRESS</text>
