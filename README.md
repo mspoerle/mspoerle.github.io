@@ -1,9 +1,9 @@
-# *marco spörle*   
+# marco spörle  
 <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/hanging.pdf" target="_blank" class="button"> **_CV_** </a> 
 <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/portfolio_final12.pdf" target="_blank" class="button"> **_Portfolio_** </a> 
 
 
-<text style="color: red">WORK IN PROGRESS</text>
+<text style="color: dark green">WORK IN PROGRESS</text>
 
 ##↓ <text style="color: red">a series of 3d rendered images that refere to a diffrent status of objects in the public space</text>
 
@@ -16,7 +16,7 @@
 ![frontview](https://github.com/user-attachments/assets/4e4c44ce-fbf6-4f86-ab32-ecb61a6fda65)
 ![_MG_4478_1340_c](https://github.com/user-attachments/assets/3edee609-279e-4419-942a-3770db1f3136)
 
-### _grounpshow in marseille_
+_grounpshow in marseille_
 
 ![Bafouille - Belsunce Project - © Aurélien Meimaris (9) copy](https://github.com/user-attachments/assets/0d1a5e6b-4d73-4aeb-bc1d-af1081698266)
 
