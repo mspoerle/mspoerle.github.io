@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        /* Basic CSS styling */
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #eeeeee;
+        }
+
+        header .button {
+            color: blue;
+            appearance: none;
+            padding: 5px 10px;
+            margin: 20px;
+            text-decoration: none;
+            background-color: #eeeeee;
+            border-radius: 0px;
+            transition: background-color 0.3s;
+        }
+
+        header .button:hover {
+            background-color: yellow;
+        }
+
+        /* Content styling */
+        .content {
+            max-width: 1600px;
+            padding: 0px;
+            text-align: center;
+        }
+
+        /* Video and Image styling */
+        video, img {
+            max-width: 100%;
+            border-radius: 0px;
+            margin: 20px ;
+        }
+    </style>
+
+    
+</head>
+<body>
+
+    <!-- Header Section with Buttons -->
+    <header>
+        <h1 style="color:blue;">marco spörle</>
+       
+        <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/hanging.pdf" target="_blank" class="button">CV</a> 
+        <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/hanging.pdf"  target="_blank" class="button">Portfolio</a> 
+    
+
+    </header> 
+
+
+    <!-- Main Content Section -->
+    <div class="content">
+    
+        <h3>recent works
+        <p style="color:red;"xoxoxoxoxo</p>
+        
+    
+    </div>
+
+</body>
+</html>
