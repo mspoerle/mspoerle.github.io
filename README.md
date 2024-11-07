@@ -1,6 +1,4 @@
-</head>
-
-<h1 style="color:blue;">marco spörle</> <h1/>
+<h1 style="color:blue;">marco spörle</> 
 
 <body>
 
