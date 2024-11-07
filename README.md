@@ -1,4 +1,4 @@
-#MARCO SPÖRLE
+##MARCO SPÖRLE
 <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/hanging.pdf" target="_blank" class="button"> **_CV_** </a> 
 <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/portfolio_final12.pdf" target="_blank" class="button"> **_Portfolio_** </a> 
 
