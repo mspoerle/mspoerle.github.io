@@ -2,13 +2,8 @@
 <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/hanging.pdf" target="_blank" class="button">CV</a> 
 <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/portfolio_final12.pdf" target="_blank" class="button">Portfolio</a> 
 
-## style="color: red" >works in progress< 
 
-$\color{#FF0000}{like~this!}$
-
-
-
-<text style="color: red">ERROR</text>
+<text style="color: red">WORK IN PROGRESS</text>
 
 
 
