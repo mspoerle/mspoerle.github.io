@@ -6,7 +6,7 @@
 
 <text style="color: green">WORK IN PROGRESS</text>
 
-https://vimeo.com/1022861386
+<a href="https://vimeo.com/1022861386">animation_shorts_film</a>
 
 <text style="color: green">↓a series of 3d rendered images</text>
 
