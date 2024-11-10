@@ -6,8 +6,7 @@
 
 <text style="color: green">WORK IN PROGRESS</text>
 
-
-[https://vimeo.com/1022861386](url)
+https://vimeo.com/1022861386
 
 <text style="color: green">↓a series of 3d rendered images</text>
 
