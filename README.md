@@ -2,11 +2,14 @@
 
 <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/cv_marco.pdf" target="_blank" class="button"> *CV* </a> 
 <a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/portfolio_final12.pdf" target="_blank" class="button"> *Portfolio* </a> 
+<a href="https://raw.githubusercontent.com/mspoerle/mspoerle.github.io/main/portfolio_final12.pdf" target="_blank" class="button"> *Portfolio older works* </a> 
 
 
-<text style="color: green">WORK IN PROGRESS</text>
+<text style="color: green">WORKS IN PROGRESS</text>
 
-<a href="https://vimeo.com/1022861386">animation_shorts_film</a>
+<a href="https://vimeo.com/919109477">animation_shorts_film</a>
+<a href="https://vimeo.com/919110839">animation_shorts_film</a>
+
 
 <text style="color: green">↓a series of 3d rendered images</text>
 
@@ -14,7 +17,7 @@
 
 ![bracket horizon](https://github.com/user-attachments/assets/7b073d27-0244-4017-835d-0d3f7070745b)
 
-
+<text style="color: green">RECENT WORKS</text>
 
 <a href="https://kunstkritikk.dk/gentrificeringsmaskinen/">kunstkritiken_review</a>
 
