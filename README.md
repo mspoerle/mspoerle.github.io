@@ -21,7 +21,7 @@
 
 
 
-<text style="color: green">↓a series of 3d rendered images</text>
+<text style="color: green">↓a series of 3d rendered images " horizont "</text>
 
 ![bracket horizon3](https://github.com/user-attachments/assets/33a08a3b-057a-4a4e-a105-3593fa49c7c7)
 
