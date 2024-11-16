@@ -13,9 +13,9 @@
 <a href="https://vimeo.com/919110839">cgi_short_film</a>
 
 
-<a href="https://vimeo.com/1022861386">"softrelease" - walkthrough_1</a>
+<a href="https://vimeo.com/1022861386">"soft release" - walkthrough_1</a>
 
-<a href="https://vimeo.com/1030272792">"softrelease" - walkthrough_2</a>
+<a href="https://vimeo.com/1030272792">"soft release" - walkthrough_2</a>
 
 
 
