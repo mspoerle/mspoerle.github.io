@@ -14,7 +14,7 @@
 
 <a href="https://archive.org/details/soft-release-1-no-sound">"soft release" - walkthrough_1</a>
 
-<a href="https://vimeo.com/1030272792">"soft release" - walkthrough_2</a>
+<a href="https://archive.org/details/soft-release-2">"soft release" - walkthrough_2</a>
 
 
 
