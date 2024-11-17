@@ -12,7 +12,7 @@
 
 <a href="https://vimeo.com/919110839">"public intervention_2 - cgi_short_film</a>
 
-<a href="https://vimeo.com/1022861386">"soft release" - walkthrough_1</a>
+<a href="https://archive.org/details/soft-release-1-no-sound">"soft release" - walkthrough_1</a>
 
 <a href="https://vimeo.com/1030272792">"soft release" - walkthrough_2</a>
 
