@@ -22,6 +22,47 @@
 
 <img width="960" alt="main menu new (Large)" src="https://github.com/user-attachments/assets/008d4099-ae40-41d0-b24b-665ba8995694" />
 
+![screenshot-2025-05-31-12-57-46 (Large)](https://github.com/user-attachments/assets/216ed411-9c0f-4ea2-bb21-af836a72f634)
+
+![screenshot-2025-05-15-16-38-02 (Large)](https://github.com/user-attachments/assets/2f695ce9-d497-4696-9484-1329ca950093)
+
+![screenshot-2025-05-15-16-36-46 (Large)](https://github.com/user-attachments/assets/8a5eb46c-2255-49fb-8dab-4837807318e2)
+
+![screenshot-2025-05-15-16-33-37 (Large)](https://github.com/user-attachments/assets/ad0a75c9-168a-441b-8423-38656fde9773)
+
+![screenshot-2025-05-15-16-26-02 (Large)](https://github.com/user-attachments/assets/c734bd7d-58be-49ad-ba96-9ff984d3370f)
+
+![screenshot-2025-05-15-16-25-12 (Large)](https://github.com/user-attachments/assets/c4ddc831-8ddf-426e-a03e-58f2f4195273)
+
+![screenshot-2025-05-15-16-18-47 (Large)](https://github.com/user-attachments/assets/1a3ec7be-693f-478d-8915-57820be284d8)
+
+![screenshot-2025-05-15-16-16-20 (Large)](https://github.com/user-attachments/assets/8f609dee-b69f-45d9-bbd5-f01aedaaf213)
+
+![screenshot-2025-05-15-16-12-38 (Large)](https://github.com/user-attachments/assets/88282774-2d68-4586-86c4-1a0329e8bdaf)
+
+![screenshot-2025-05-15-16-07-39 (Large)](https://github.com/user-attachments/assets/6d593863-164e-435b-9186-e14f1d029bd0)
+
+![screenshot-2025-05-15-14-36-56 (Large)](https://github.com/user-attachments/assets/2563c5a3-e69a-4fad-82dd-ef0b24ea1a5b)
+
+![screenshot-2025-05-15-14-34-10 (Large)](https://github.com/user-attachments/assets/167a22d4-ce87-4ee5-a2e2-7a0755efa309)
+
+![screenshot-2025-05-15-14-32-46 (Large)](https://github.com/user-attachments/assets/2ad1b2a7-05a1-4d32-a461-01a5690902b5)
+
+![screenshot-2025-05-14-15-35-35 (Large)](https://github.com/user-attachments/assets/0ff9df48-81ab-4bc7-aa8c-2c894e093868)
+
+![screenshot-2025-05-10-20-30-31 (Large)](https://github.com/user-attachments/assets/d5a935cf-c532-4ade-96df-2063fbbb8c80)
+
+![screenshot-2025-05-10-19-13-16 (Large)](https://github.com/user-attachments/assets/00dd3e89-fd6a-45a5-9777-a4c9bc8272ae)
+
+![screenshot-2025-05-10-18-43-03 (Large)](https://github.com/user-attachments/assets/45d9494a-f601-4ad7-9144-eb2b662283a3)
+
+![Screenshot (3) (Large)](https://github.com/user-attachments/assets/8232e7b9-4977-4c9c-b31e-893cf1f451d0)
+
+
+
+
+
+
 
 
 <text style="color: green">RECENT WORKS</text>
