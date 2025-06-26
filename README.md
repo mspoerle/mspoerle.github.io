@@ -18,7 +18,7 @@
 
 <a href="https://drive.google.com/drive/folders/1Q7BQCGQwROToIxZkxn1wTHj9ls4MgOWc?usp=drive_link"> link for the game "A_Dwelling"
 
-<a href="https://archive.org/details/walkthrough-of-a_dwelling">"A_Dwelling" - walkthrough_1</a>
+<a href="https://archive.org/details/walkthrough-of-a_dwelling">  walkthrough "A_Dwelling"
 
 <img width="960" alt="main menu new (Large)" src="https://github.com/user-attachments/assets/008d4099-ae40-41d0-b24b-665ba8995694" />
 
