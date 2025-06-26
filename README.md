@@ -56,7 +56,6 @@
 
 ![screenshot-2025-05-15-16-30-51 (Large)](https://github.com/user-attachments/assets/ed4fd6d7-0694-4ba5-b100-8aafc2f9a30e)
 
-
 ![screenshot-2025-05-15-14-36-56 (Large)](https://github.com/user-attachments/assets/784f1627-cfea-445d-b9e5-9c63485ffa67)
 
 ![screenshot-2025-05-10-20-30-31 (Large)](https://github.com/user-attachments/assets/552c06f2-4184-4c34-8c09-19258656f03b)
@@ -78,11 +77,7 @@
 ![screenshot-2025-05-15-16-12-27 (Large)](https://github.com/user-attachments/assets/a15d7828-5583-45eb-983b-dc6271ea4328)
 
 
-<text style="color: green">↓a series of 3d rendered images " horizont "</text>
 
-![bracket horizon3](https://github.com/user-attachments/assets/33a08a3b-057a-4a4e-a105-3593fa49c7c7)
-
-![bracket horizon](https://github.com/user-attachments/assets/7b073d27-0244-4017-835d-0d3f7070745b)
 
 <text style="color: green">RECENT WORKS</text>
 
@@ -106,6 +101,7 @@ _grounpshow in marseille_
 ![Bafouille - Belsunce Project - © Aurélien Meimaris (17) copy](https://github.com/user-attachments/assets/419f2442-4ff0-4bb8-8682-d55b5e20616c)
 
 ![Bafouille - Belsunce Project - © Aurélien Meimaris (15) copy](https://github.com/user-attachments/assets/52c26d71-6e56-48d0-98d0-b71e1a058d82)
+
 
 
 
