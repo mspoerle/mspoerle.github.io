@@ -12,9 +12,15 @@
 
 <a href="https://archive.org/details/intervention-2-1080p">"public intervention_2 - cgi_short_film</a>
 
-<a href="https://archive.org/details/soft-release-1-no-sound">"soft release" - walkthrough_1</a>
+<text style="color: green">"SOFT RELEASE" at Vermilion Sands</text>
 
-<a href="https://archive.org/details/soft-release-2">"soft release" - walkthrough_2</a>
+<a href="https://www.vermilionsands.net/SOFT-RELEASE">  Documentation
+
+<a href="https://drive.google.com/drive/folders/1Q7BQCGQwROToIxZkxn1wTHj9ls4MgOWc?usp=drive_link"> link for the game "A_Dwelling"
+
+<a href="https://archive.org/details/walkthrough-of-a_dwelling">"soft release" - walkthrough_1</a>
+
+
 
 
 
